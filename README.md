@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @gyatewaa
-- 👀 I’m interested in python and machine learning
-- 🌱 I’m currently learning android development, data analysis and machine learning
-- 💞️ I’m looking to collaborate on projects
+- 👋 @gyatewaa
+- 👀 Python,data analysis and machine learning
 - 📫 How to reach me : gilliankoranteng12@gmail.com
 
 <!---
