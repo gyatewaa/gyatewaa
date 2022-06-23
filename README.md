@@ -1,6 +1,6 @@
-- 👋 @gyatewaa
-- 👀 Python,data analysis and machine learning
-- 📫 How to reach me : gilliankoranteng12@gmail.com
+-  @gyatewaa
+-  Python,data analysis and machine learning
+- gilliankoranteng12@gmail.com
 
 <!---
 gyatewaa/gyatewaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
